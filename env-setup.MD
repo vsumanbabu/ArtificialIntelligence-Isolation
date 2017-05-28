@@ -9,3 +9,6 @@
  4. source activate aind
  5. source deactivate
 
+pip install udacity-pa
+udacity submit isolation
+
